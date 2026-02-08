@@ -3,3 +3,4 @@ pillow
 matplotlib
 python-dotenv
 openai
+tensorflow
